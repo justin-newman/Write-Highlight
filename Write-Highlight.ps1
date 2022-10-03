@@ -1,7 +1,7 @@
 
 <#PSScriptInfo
 
-.VERSION 1.1
+.VERSION 1.1.1
 
 .GUID c0ffed1f-af92-4858-811a-15fc61a12823
 
@@ -28,6 +28,7 @@ https://github.com/justin-newman/Write-Highlight
 .RELEASENOTES
 Version 1.0: Original published version.
 Version 1.1: Removed [CmdletBinding()] that was left in by mistake
+Version 1.1.1: Updated License information
 
 .PRIVATEDATA
 
